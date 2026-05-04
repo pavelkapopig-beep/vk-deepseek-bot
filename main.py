@@ -5,7 +5,7 @@ from vk_api import VkApi
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
 # ----- ТУТ БУДЕТ ТОКЕН И ID (ЗАМЕНИТЕ ПОТОМ) -----
-VK_TOKEN = "vk1.a.Jx5_KQ_KDLHPZ5tt8em53BRYLhsd61jmYNMmk6XpZ60NLUHdGOxQqs-opEHyrOpH8sUJ_-IJ2C-gp4-Vig0AxXTRwnW3QZMTRyXdcekZRarXI8_pSd_PG-UqhpYm36KPogIR9Dhtap_wS00b60ZD3RQR4IqRmBgd7ev6aDOSP1zzSA3_Wp-lj8BaAEmL9HFTQUq8WmaJ81MNEmw29TQUrQ"
+VK_TOKEN = "vk1.a.cpUwFYKHnqU2KHhQ_idc8kxDwEnJHm9wNHvbFR2dwKFeeZ6PotG8z2eu_hsVZ9Itf2Yh16nVZSJWl9e-TFsLGNo-IaEcyZPAOXciJP3QEExi1mUwF1zqXdb7GS0nNrlJUVgg77Lmsk-ncf4K1tY6A8zj6_MYwdXC8C2B87Y50qaf7P-_AoXJQAFD1JtqCMxgi7qXYyWtsApz8anfkg0vbA"
 GROUP_ID = 238363811  # ID группы (только цифры)
 DEEPSEEK_API_KEY = "sk-ab46e6510ee24516ad700ffae93baff2"
 
