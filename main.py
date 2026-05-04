@@ -7,7 +7,7 @@ from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 # ----- ТУТ БУДЕТ ТОКЕН И ID (ЗАМЕНИТЕ ПОТОМ) -----
 VK_TOKEN = "vk1.a.Jx5_KQ_KDLHPZ5tt8em53BRYLhsd61jmYNMmk6XpZ60NLUHdGOxQqs-opEHyrOpH8sUJ_-IJ2C-gp4-Vig0AxXTRwnW3QZMTRyXdcekZRarXI8_pSd_PG-UqhpYm36KPogIR9Dhtap_wS00b60ZD3RQR4IqRmBgd7ev6aDOSP1zzSA3_Wp-lj8BaAEmL9HFTQUq8WmaJ81MNEmw29TQUrQ"
 GROUP_ID = 238363811  # ID группы (только цифры)
-DEEPSEEK_API_KEY = "sk-116a8e883bac48b78befac905cc29f22"
+DEEPSEEK_API_KEY = "sk-ab46e6510ee24516ad700ffae93baff2"
 
 # ----- ЛИЧНОСТЬ НЬЮТОНА (можешь менять как хочешь) -----
 SYSTEM_PROMPT = """
