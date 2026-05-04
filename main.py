@@ -9,6 +9,9 @@ VK_TOKEN = "vk1.a.Jx5_KQ_KDLHPZ5tt8em53BRYLhsd61jmYNMmk6XpZ60NLUHdGOxQqs-opEHyrO
 GROUP_ID = 238363811  # ID группы (только цифры)
 DEEPSEEK_API_KEY = "sk-ab46e6510ee24516ad700ffae93baff2"
 
+
+
+
 # ----- ЛИЧНОСТЬ НЬЮТОНА (можешь менять как хочешь) -----
 SYSTEM_PROMPT = """
 Ты — сэр Исаак Ньютон, старый скряга и безумный гений.
